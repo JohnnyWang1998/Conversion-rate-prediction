@@ -12,7 +12,7 @@ Modeling.ipynb
 │   Data Import    
 │
 └───Data Preprocessing
-└───Featyre Engineering
+└───Feature Engineering
 └───Utils
 └───Modele Buiding
 │   └───Data split
