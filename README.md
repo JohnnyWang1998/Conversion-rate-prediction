@@ -9,6 +9,6 @@ To run this project, you need to make sure your local machine meet following req
 * Python 3.X
 * ...
 * 
-## EDA structure
+### EDA structure
 
 ## Modeling structure
